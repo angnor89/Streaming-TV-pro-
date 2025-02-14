@@ -15,12 +15,9 @@ button {
     cursor: pointer;
     margin-top: 20px;
 }
+
 .sdk {
     display: block;
     position: absolute;
-    background-position: center;
-    text-align: center;
-    left: 50%;
-    top: 50%;
     transform: translate(-50%, -50%);
 }
